@@ -1,0 +1,12 @@
+{
+  "name": "gcm-sender",
+  "version": "0.0.0",
+  "description": "Sends GCM messages",
+  "main": "gcm-sender.js",
+  "dependencies": {
+    "request": "~2.33.0"
+  },
+  "devDependencies": {},
+  "author": "Thomas Mullaly",
+  "license": "MIT"
+}

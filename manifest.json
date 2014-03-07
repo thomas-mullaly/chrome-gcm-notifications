@@ -1,0 +1,12 @@
+{
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "key": "aiabnnbjlbpadiemnodemnkjhbfhihoe",
+    "manifest_version": 2,
+    "name": "Chrome GCM Test",
+    "version": "0.0.0.1",
+    "permissions": ["gcm"]
+}
